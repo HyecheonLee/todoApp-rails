@@ -4,4 +4,8 @@ class PagesController < ActionController::Base
 
   end
 
+  def about
+
+  end
+
 end
